@@ -1,8 +1,25 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
   "mcpServers": {
     "ranxplorer-mcp": {
       "type": "http",
-      "url": "https://mcp.ranxplorer.com/mcp"
+      "url": "https://mcp.ranxplorer.com/mcp",
+      "extensions": {
+        "com.openai": {
+          "auth": {
+            "type": "oauth",
+            "client": {
+              "mode": "cimd"
+            },
+            "authorizationUrl": "https://ranxplorer.com/oauth/authorize",
+            "registrationUrl": "https://ranxplorer.com/oauth/register",
+            "tokenUrl": "https://ranxplorer.com/oauth/token",
+            "baseScopes": [
+              "mcp:use"
+            ]
+          }
+        }
+      }
     }
   }
 }
