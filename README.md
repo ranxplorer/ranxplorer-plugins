@@ -24,7 +24,7 @@ Add the Ranxplorer marketplace to Codex CLI:
 
 ### Available plugins
 
-- [Ranxplorer MCP](https://https://github.com/ranxplorer/ranxplorer-plugins/tree/main/plugins/ranxplorer-mcp)
+- [Ranxplorer MCP](https://github.com/ranxplorer/ranxplorer-plugins/tree/main/plugins/ranxplorer-mcp)
 
 ---
 
