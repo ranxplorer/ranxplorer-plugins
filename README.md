@@ -50,7 +50,7 @@ Ajoutez la marketplace Ranxplorer à Codex CLI :
 
 ### Plugins disponibles
 
-- [Ranxplorer MCP](https://https://github.com/ranxplorer/ranxplorer-plugins/tree/main/plugins/ranxplorer-mcp)
+- [Ranxplorer MCP](https://github.com/ranxplorer/ranxplorer-plugins/tree/main/plugins/ranxplorer-mcp)
 
 ## Support
 
