@@ -1,0 +1,23 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "ranxplorer-mcp",
+  "version": "1.0.0",
+  "displayName": "Ranxplorer MCP",
+  "description": "Connect Claude to Ranxplorer’s SEO and SEA data using the MCP protocol",
+  "author": {
+    "name": "Ranxplorer",
+    "email": "contact@ranxplorer.com",
+    "url": "https://ranxplorer.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ranxplorer",
+    "mcp",
+    "seo",
+    "sea",
+    "keywords",
+    "backlinks",
+    "audit"
+  ],
+  "privacyPolicyUrl": "https://ranxplorer.com/privacy"
+}

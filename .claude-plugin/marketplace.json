@@ -1,0 +1,24 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "ranxplorer-plugins",
+  "description": "The Ranxplorer plugins marketplace",
+  "owner": {
+    "name": "Ranxplorer",
+    "email": "contact@ranxplorer.com",
+    "url": "https://ranxplorer.com"
+  },
+  "plugins": [
+    {
+      "name": "ranxplorer-mcp",
+      "description": "Connect Claude to Ranxplorer’s SEO and SEA data using the MCP protocol",
+      "author": {
+        "name": "Ranxplorer",
+        "email": "contact@ranxplorer.com",
+        "url": "https://ranxplorer.com"
+      },
+      "category": "marketing",
+      "source": "./plugins/ranxplorer-mcp",
+      "homepage": "https://github.com/ranxplorer/ranxplorer-plugins/tree/main/plugins/ranxplorer-mcp"
+    }
+  ]
+}

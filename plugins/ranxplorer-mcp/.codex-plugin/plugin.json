@@ -1,0 +1,46 @@
+{
+  "$schema": "https://www.schemastore.org/codex-plugin-manifest.json",
+  "name": "ranxplorer-mcp",
+  "version": "1.0.0",
+  "description": "Connect ChatGPT or Claude to Ranxplorer’s SEO and SEA data using the MCP protocol",
+  "author": {
+    "name": "Ranxplorer",
+    "email": "contact@ranxplorer.com",
+    "url": "https://ranxplorer.com"
+  },
+  "homepage": "https://ranxplorer.com/mcp",
+  "license": "MIT",
+  "keywords": [
+    "ranxplorer",
+    "mcp",
+    "seo",
+    "sea",
+    "keywords",
+    "backlinks",
+    "audit"
+  ],
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Ranxplorer MCP",
+    "shortDescription": "Use the power of Ranxplorer data",
+    "longDescription": "Connect ChatGPT to Ranxplorer’s SEO and SEA data using the MCP protocol",
+    "developerName": "Ranxplorer",
+    "category": "Data & Analytics",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "websiteURL": "https://ranxplorer.com",
+    "privacyPolicyURL": "https://ranxplorer.com/privacy",
+    "termsOfServiceURL": "https://ranxplorer.com/cgu",
+    "defaultPrompt": [
+      "Montre moi l'évolution des mot-clés pour ranxplorer.com entre ce mois-ci et le mois dernier",
+      "Donne moi les expressions sur lesquelles ranxplorer.com apparait dans les résultats shopping",
+      "Fais-moi une synthèse des backlinks de ranxplorer.com au 1er janvier de cette année"
+    ],
+    "brandColor": "#11223A",
+    "logo": "./assets/icon.png",
+    "logoDark": "./assets/icon-dark.png",
+    "screenshots": []
+  }
+}
