@@ -19,5 +19,8 @@
     "backlinks",
     "audit"
   ],
-  "privacyPolicyUrl": "https://ranxplorer.com/privacy"
+  "homepage": "https://ranxplorer.com",
+  "privacyPolicyUrl": "https://ranxplorer.com/privacy",
+  "documentationUrl": "https://ranxplorer.com/mcp",
+  "supportUrl": "https://ranxplorer.com/faq"
 }
