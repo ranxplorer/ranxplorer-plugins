@@ -57,4 +57,4 @@ Ajoutez la marketplace Ranxplorer à Codex CLI :
 - Privacy policy: [https://ranxplorer.com/privacy](https://ranxplorer.com/privacy)
 - Terms of service: [https://ranxplorer.com/cgu](https://ranxplorer.com/cgu)
 - Help & FAQ: [https://ranxplorer.com/faq](https://ranxplorer.com/faq)
-- Email: [contact@ranxplorer.com](contact@ranxplorer.com)
+- Email: [contact@ranxplorer.com](mailto:contact@ranxplorer.com)
