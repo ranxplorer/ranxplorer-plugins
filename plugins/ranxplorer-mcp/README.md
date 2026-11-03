@@ -27,7 +27,7 @@ Before you begin, ensure you have the following items:
 
 #### Claude
 
-`Ranxplorer MCP` is available via the [official Claude plugin marketplace](https://claude.com/plugins/ranxplorer-mcp)
+`Ranxplorer MCP` is available via the [official Claude plugin marketplace](https://claude.com/plugins)
 
 - In the Claude app or on claude.ai, click on `Customize` in the sidebar.
 - Then click on the `Plugins` tab.
@@ -36,7 +36,7 @@ Before you begin, ensure you have the following items:
 
 #### ChatGPT
 
-`Ranxplorer MCP` is available via the [official OpenAI plugin marketplace](https://github.com/openai/plugins).
+`Ranxplorer MCP` is available via the [official OpenAI plugin marketplace](https://openai.com/business/plugins).
 
 - In the ChatGPT app or on chatgpt.com, click on `Plugins` in the sidebar.
 - You should see `Ranxplorer MCP` in the `Data & Analytics` section.
