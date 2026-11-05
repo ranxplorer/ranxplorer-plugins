@@ -1,5 +1,4 @@
 {
-  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
   "name": "ranxplorer-plugins",
   "description": "The Ranxplorer plugins marketplace",
   "owner": {

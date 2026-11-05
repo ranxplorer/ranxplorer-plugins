@@ -1,5 +1,4 @@
 {
-  "$schema": "https://www.schemastore.org/claude-code-plugin-manifest.json",
   "name": "ranxplorer-mcp",
   "version": "1.0.0",
   "displayName": "Ranxplorer MCP",
