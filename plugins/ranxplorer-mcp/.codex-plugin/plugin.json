@@ -1,4 +1,5 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ranxplorer-mcp",
   "version": "1.0.0",
   "description": "Connect ChatGPT or Claude to Ranxplorer’s SEO and SEA data using the MCP protocol",
@@ -21,7 +22,7 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Ranxplorer MCP",
-    "shortDescription": "Use the power of Ranxplorer data",
+    "shortDescription": "Unlock Ranxplorer's data power",
     "longDescription": "Connect ChatGPT to Ranxplorer’s SEO and SEA data using the MCP protocol",
     "developerName": "Ranxplorer",
     "category": "Data & Analytics",
@@ -30,6 +31,7 @@
       "Read"
     ],
     "websiteURL": "https://ranxplorer.com",
+    "supportURL": "https://ranxplorer.com/faq",
     "privacyPolicyURL": "https://ranxplorer.com/privacy",
     "termsOfServiceURL": "https://ranxplorer.com/cgu",
     "defaultPrompt": [
