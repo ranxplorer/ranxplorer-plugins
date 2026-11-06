@@ -21,7 +21,7 @@
   "homepage": "https://ranxplorer.com",
   "icon": "./assets/icon.png",
   "documentationUrl": "https://ranxplorer.com/mcp",
-  "supportURL": "https://ranxplorer.com/faq",
-  "privacyPolicyURL": "https://ranxplorer.com/privacy",
-  "termsOfServiceURL": "https://ranxplorer.com/cgu"
+  "supportUrl": "https://ranxplorer.com/faq",
+  "privacyPolicyUrl": "https://ranxplorer.com/privacy",
+  "termsOfServiceUrl": "https://ranxplorer.com/cgu"
 }

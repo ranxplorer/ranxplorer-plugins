@@ -29,9 +29,9 @@
       "Interactive",
       "Read"
     ],
-    "websiteURL": "https://ranxplorer.com",
-    "privacyPolicyURL": "https://ranxplorer.com/privacy",
-    "termsOfServiceURL": "https://ranxplorer.com/cgu",
+    "websiteUrl": "https://ranxplorer.com",
+    "privacyPolicyUrl": "https://ranxplorer.com/privacy",
+    "termsOfServiceUrl": "https://ranxplorer.com/cgu",
     "supportURL": "https://ranxplorer.com/faq",
     "contactUrl": "mailto:contact@ranxplorer.com",
     "defaultPrompt": [
