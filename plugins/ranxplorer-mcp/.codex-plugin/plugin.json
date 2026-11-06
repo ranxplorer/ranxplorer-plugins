@@ -1,5 +1,4 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ranxplorer-mcp",
   "version": "1.0.0",
   "description": "Connect ChatGPT or Claude to Ranxplorer’s SEO and SEA data using the MCP protocol",
