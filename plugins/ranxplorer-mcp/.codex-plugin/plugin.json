@@ -67,9 +67,9 @@
             },
             {
               "description": "Ranked URLs",
-              "prompt": "Retrieve the list of URLs for which the site example.com appears in paid search results",
+              "prompt": "Retrieve the list of URLs that appear in advertising results for the site google.com",
               "tools_triggered": "get-sea-urls-tool",
-              "expected_behavior": "Retrieve all URLs where example.com appears in paid search results"
+              "expected_behavior": "Retrieve all URLs where google.com appears in advertising results"
             },
             {
               "description": "PAA questions",
@@ -89,7 +89,7 @@
             },
             {
               "description": "Out of API credits",
-              "prompt": "Retrieve all database update dates"
+              "prompt": "Retrieves all the dates on which the Ranxplorer database was updated"
             }
           ]
         }
