@@ -1,7 +1,11 @@
 {
   "name": "ranxplorer-plugins",
   "interface": {
-    "displayName": "Ranxplorer Marketplace"
+    "displayName": "Ranxplorer Marketplace",
+    "websiteURL": "https://ranxplorer.com",
+    "supportURL": "https://ranxplorer.com/faq",
+    "privacyPolicyURL": "https://ranxplorer.com/privacy",
+    "termsOfServiceURL": "https://ranxplorer.com/cgu"
   },
   "plugins": [
     {
@@ -16,9 +20,5 @@
       },
       "category": "Data & Analytics"
     }
-  ],
-  "websiteURL": "https://ranxplorer.com",
-  "supportURL": "https://ranxplorer.com/faq",
-  "privacyPolicyURL": "https://ranxplorer.com/privacy",
-  "termsOfServiceURL": "https://ranxplorer.com/cgu"
+  ]
 }
