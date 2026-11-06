@@ -32,6 +32,7 @@
     "websiteURL": "https://ranxplorer.com",
     "privacyPolicyURL": "https://ranxplorer.com/privacy",
     "termsOfServiceURL": "https://ranxplorer.com/cgu",
+    "supportURL": "https://ranxplorer.com/faq",
     "defaultPrompt": [
       "Montre moi l'évolution des mot-clés entre ce mois-ci et le mois dernier pour example.com",
       "Donne moi les expressions sur lesquelles example.com apparait dans les résultats AI Overview",
@@ -75,6 +76,20 @@
               "prompt": "Retrieve a list of PAA questions related to the keyword SaaS",
               "tools_triggered": "get-keyword-paa-questions-tool",
               "expected_behavior": "Retrieve People Also Ask (PAA) questions related to the keyword SaaS."
+            }
+          ],
+          "negative": [
+            {
+              "description": "Subdomain does not exists",
+              "prompt": "Retrieve the list of competitors for the subdomain unknown.example.com"
+            },
+            {
+              "description": "Outrange dates",
+              "prompt": "Retrieve the SEO keyword trends for the site example.com between January 1900 and December 1905"
+            },
+            {
+              "description": "Out of API credits",
+              "prompt": "Retrieve all database update dates"
             }
           ]
         }
