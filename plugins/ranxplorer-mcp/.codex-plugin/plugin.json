@@ -33,13 +33,53 @@
     "privacyPolicyURL": "https://ranxplorer.com/privacy",
     "termsOfServiceURL": "https://ranxplorer.com/cgu",
     "defaultPrompt": [
-      "Montre moi l'évolution des mot-clés pour ranxplorer.com entre ce mois-ci et le mois dernier",
-      "Donne moi les expressions sur lesquelles ranxplorer.com apparait dans les résultats shopping",
-      "Fais-moi une synthèse des backlinks de ranxplorer.com au 1er janvier de cette année"
+      "Montre moi l'évolution des mot-clés entre ce mois-ci et le mois dernier pour example.com",
+      "Donne moi les expressions sur lesquelles example.com apparait dans les résultats AI Overview",
+      "Pour example.com au mois de janvier, génére un audit de positionnement pour les mots-clés : domain, test, placeholder"
     ],
     "brandColor": "#11223A",
     "logo": "./assets/icon.png",
     "logoDark": "./assets/icon-dark.png",
     "screenshots": []
+  },
+  "extensions": {
+    "com.openai": {
+      "review": {
+        "test_cases": {
+          "positive": [
+            {
+              "description": "SEO History",
+              "prompt": "Retrieve a historical summary of the key indicators for the visibility of the site example.com in organic search results",
+              "tools_triggered": "get-seo-history-tool",
+              "expected_behavior": "Retrieve and summarize the historical organic search visibility metrics for a specified website"
+            },
+            {
+              "description": "Competitor analysis",
+              "prompt": "Retrieve the list of competitors for the domain example.com",
+              "tools_triggered": "get-seo-competitors-tool",
+              "expected_behavior": "Retrieve and return the competitors associated with the specified domain"
+            },
+            {
+              "description": "History range",
+              "prompt": "Retrieves all the dates on which the Ranxplorer database was updated",
+              "tools_triggered": "get-seo-history-range-tool",
+              "expected_behavior": "Retrieve all database update dates"
+            },
+            {
+              "description": "Ranked URLs",
+              "prompt": "Retrieve the list of URLs for which the site example.com appears in paid search results",
+              "tools_triggered": "get-sea-urls-tool",
+              "expected_behavior": "Retrieve all URLs where example.com appears in paid search results"
+            },
+            {
+              "description": "PAA questions",
+              "prompt": "Retrieve a list of PAA questions related to the keyword SaaS",
+              "tools_triggered": "get-keyword-paa-questions-tool",
+              "expected_behavior": "Retrieve People Also Ask (PAA) questions related to the keyword SaaS."
+            }
+          ]
+        }
+      }
+    }
   }
 }
