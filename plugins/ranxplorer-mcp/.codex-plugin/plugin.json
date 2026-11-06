@@ -39,8 +39,7 @@
     ],
     "brandColor": "#11223A",
     "logo": "./assets/icon.png",
-    "logoDark": "./assets/icon-dark.png",
-    "screenshots": []
+    "logoDark": "./assets/icon-dark.png"
   },
   "extensions": {
     "com.openai": {
