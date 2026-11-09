@@ -1,7 +1,7 @@
 {
   "name": "ranxplorer-mcp",
   "version": "1.0.0",
-  "description": "Connect ChatGPT or Claude to Ranxplorer’s SEO and SEA data using the MCP protocol",
+  "description": "Connect ChatGPT or Claude to Ranxplorer's SEO and SEA data using the MCP protocol",
   "author": {
     "name": "Ranxplorer",
     "email": "contact@ranxplorer.com",
@@ -22,7 +22,7 @@
   "interface": {
     "displayName": "Ranxplorer MCP",
     "shortDescription": "Unlock Ranxplorer's data power",
-    "longDescription": "Connect ChatGPT to Ranxplorer’s SEO and SEA data using the MCP protocol",
+    "longDescription": "Connect ChatGPT to Ranxplorer's SEO and SEA data using the MCP protocol",
     "developerName": "Ranxplorer",
     "category": "Data & Analytics",
     "capabilities": [

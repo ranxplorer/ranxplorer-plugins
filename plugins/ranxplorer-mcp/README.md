@@ -5,13 +5,13 @@
 ---
 ## English
 
-Connect ChatGPT or Claude to Ranxplorer’s SEO and SEA data using the MCP protocol.
+Connect ChatGPT or Claude to Ranxplorer's SEO and SEA data using the MCP protocol.
 
 ### Usage
 
 This plugin allows you to query and analyze any website using natural language, based on reliable and up-to-date data for the French market.
 
-This integration facilitates SEO audits, keyword research, backlink analysis, rank tracking, SERP analysis, and the study of competitor strategies. It provides a better understanding of a site’s visibility on Google, helps identify new opportunities, and enables the optimization of SEO and SEA strategies using data from Ranxplorer.
+This integration facilitates SEO audits, keyword research, backlink analysis, rank tracking, SERP analysis, and the study of competitor strategies. It provides a better understanding of a site's visibility on Google, helps identify new opportunities, and enables the optimization of SEO and SEA strategies using data from Ranxplorer.
 
 ### Requirements
 
@@ -66,9 +66,9 @@ Connectez Claude aux données SEO et SEA de Ranxplorer grâce au protocole MCP.
 
 ### Utilisation
 
-Ce plugin vous permet d’interroger et d’analyser votre site web en langage naturel à partir de données fiables et actualisées sur le marché français.
+Ce plugin vous permet d'interroger et d'analyser votre site web en langage naturel à partir de données fiables et actualisées sur le marché français.
 
-Cette intégration facilite la réalisation d’audits SEO, la recherche de mots-clés, l’analyse des backlinks, le suivi des positions, l'analyse des SERP et l’étude des stratégies de la concurrence. Elle permet ainsi de mieux comprendre la visibilité d’un site sur Google, d’identifier de nouvelles opportunités et d’optimiser les stratégies SEO et SEA grâce aux données de Ranxplorer.
+Cette intégration facilite la réalisation d'audits SEO, la recherche de mots-clés, l'analyse des backlinks, le suivi des positions, l'analyse des SERP et l'étude des stratégies de la concurrence. Elle permet ainsi de mieux comprendre la visibilité d'un site sur Google, d'identifier de nouvelles opportunités et d'optimiser les stratégies SEO et SEA grâce aux données de Ranxplorer.
 
 ### Prérequis
 
@@ -76,9 +76,9 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
 
 | Prérequis                                          | Description                                                                                                                                      |
 | :------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Un compte [ranxplorer.com](https://ranxplorer.com) | Vous aurez besoin d’un compte Ranxplorer actif pour accéder aux fonctionnalités du serveur MCP.                                                  |
-| Crédits API Ranxplorer                             | Vous devrez disposer de crédits API Ranxplorer qui sont nécessaires pour permettre au serveur MCP d'interroger l’API et de générer des analyses. |
-| Assistant IA compatible                            | Vous aurez besoin d’un logiciel client tel que Claude Desktop ou Claude Code, prenant en charge le protocole MCP.                                |
+| Un compte [ranxplorer.com](https://ranxplorer.com) | Vous aurez besoin d'un compte Ranxplorer actif pour accéder aux fonctionnalités du serveur MCP.                                                  |
+| Crédits API Ranxplorer                             | Vous devrez disposer de crédits API Ranxplorer qui sont nécessaires pour permettre au serveur MCP d'interroger l'API et de générer des analyses. |
+| Assistant IA compatible                            | Vous aurez besoin d'un logiciel client tel que Claude Desktop ou Claude Code, prenant en charge le protocole MCP.                                |
 
 ### Installation
 
@@ -86,10 +86,10 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
 
 `Ranxplorer MCP` est disponible via la [marketplace officielle des plugins Claude](https://claude.com/plugins)
 
-- Dans l’application Claude ou sur claude.ai, cliquez sur `Personnaliser` dans la barre latérale.
-- Cliquez ensuite sur l’onglet `Plugins`.
+- Dans l'application Claude ou sur claude.ai, cliquez sur `Personnaliser` dans la barre latérale.
+- Cliquez ensuite sur l'onglet `Plugins`.
 - Vous devriez voir `Ranxplorer MCP` dans la section `Marketing`.
-- Cliquez sur le bouton `Ajouter` situé à côté de `Ranxplorer MCP` et suivez les instructions à l’écran.
+- Cliquez sur le bouton `Ajouter` situé à côté de `Ranxplorer MCP` et suivez les instructions à l'écran.
 
 #### ChatGPT
 

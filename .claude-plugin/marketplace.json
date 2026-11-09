@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "ranxplorer-mcp",
-      "description": "Connect Claude to Ranxplorer’s SEO and SEA data using the MCP protocol",
+      "description": "Connect Claude to Ranxplorer's SEO and SEA data using the MCP protocol",
       "author": {
         "name": "Ranxplorer",
         "email": "contact@ranxplorer.com",
