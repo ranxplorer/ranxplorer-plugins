@@ -105,5 +105,5 @@ Avant de commencer, assurez-vous de disposer des éléments suivants :
 - [Documentation](https://ranxplorer.com/mcp)
 - [Privacy policy](https://ranxplorer.com/privacy)
 - [Terms of service](https://ranxplorer.com/cgu)
-- [Support](https://ranxplorer.com/faq)
+- [Support](https://ranxplorer.com/support)
 - [Contact](mailto:contact@ranxplorer.com)
